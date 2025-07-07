@@ -11,8 +11,8 @@
     支持x,y,z方向上的平移(单位:m) 和 绕三个轴的旋转(弧度制)
 
 ## 构建：
-    git clone 
-    
+    git clone https://github.com/KokoColaa/pcd_viewer_ws.git
+
     cd pcd_viewer_ws/
     colcon build --symlink-install
     source install/setup.bash
